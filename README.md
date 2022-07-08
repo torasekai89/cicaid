@@ -13,6 +13,7 @@ features:
 - fast pinging
 - emoji support
 - threading support
-- the code is easy to understand as i just a beginner at python as well as discordpy at the time i making this bot.
+
+the code is easy to understand as i just a beginner at python as well as discordpy at the time i making this bot.
 
 youtube video: https://youtu.be/Oo883VsQ0hk
